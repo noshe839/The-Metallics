@@ -32,3 +32,5 @@
 <p><strong>Lugar y fecha de nacimiento:</strong>21/Septiembre - Freewill-EstadosUnidos</p>
 </div>
   </div>
+</body>
+<p><strong>Historia:</strong>Otto es un cientifico,viejo amigo de Oliver.El es alguien muy dispuesto con su trabajo,aunque a veces,dependiendo de la situacion,puede ser muy decidido o entrar en conflicto con lo que cree correcto.Se encargaria de crear los trajes para su equipo,listos para salvar al mundo.
