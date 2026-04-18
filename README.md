@@ -19,4 +19,16 @@
 </div>
   </div>
 </body>
-<p></p>
+<p><strong>Historia:</strong>Un chico solitario huerfano decide convertirse en heroe cuando el lugar en el que vive,Freewill City,se ve amenazada por una invasion de otro mundo.Oliver y sus amigos deciden ser heroes con traje o armaduras especiales para salvar a la ciudad,no solo por el bienestar de los ciudadanos,tambien para rellenar un vacio emocional del cual,Oliver no ha logrado llenar.Apartir de aqui,decidira el rumbo que tomara su vida con su doble identidad</p>
+
+
+<div class="container">
+    <h1> OTTO - SPINE</h1>
+    <img
+      src="spine.jpg"
+      alt="imagen spine">
+</body>
+<div class="info">
+<p><strong>Lugar y fecha de nacimiento:</strong>21/Septiembre - Freewill-EstadosUnidos</p>
+</div>
+  </div>
