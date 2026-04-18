@@ -14,3 +14,8 @@
       src="green_light.jpg"
       alt="imagen greenlight">
 </body>
+<div class="info">
+<p><strong>Lugar de nacimiento:</strong>Freewill-EstadosUnidos</p>
+</div>
+  </div>
+</body>
